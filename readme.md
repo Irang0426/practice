@@ -13,7 +13,7 @@
 ## 팀원 소개
 | 이상빈 | 아무개 |
 | ---- | ---- |
-| [@irang](http://github.com/irang1928) | |
+| [@irang](http://github.com/irang0426) | |
 
 ## 프로젝트 설명
 
