@@ -1,4 +1,4 @@
-# [안녕하세요](https://github.com/Irang1928/practice) ![license](https://img.shields.io/badge/license-MIT-blue)
+# [안녕하세요](https://github.com/Irang0426/practice) ![license](https://img.shields.io/badge/license-MIT-blue)
 
 안녕하세요는 한국 고유의 인사말입니다.
 
